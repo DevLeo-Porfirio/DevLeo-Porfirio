@@ -45,7 +45,4 @@
 
 </br>
 </br>
-
-
-![snake gif](https://github.com/DevLeo-Porfirio/DevLeo-Porfirio/blob/output/github-contribution-grid-snake.svg)
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=012DFE&height=130&section=footer"/>
