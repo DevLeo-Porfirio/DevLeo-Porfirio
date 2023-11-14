@@ -1,4 +1,4 @@
-# Olá! Bem-Vindo(a)! </br>Eu sou o Leonardo Porfirio 🖐🏽
+## Olá! Bem-Vindo(a)! </br>Eu sou o Leonardo Porfirio 🖐🏽
 
 ![DevLeo-Porfirio GitHub stats](https://github-readme-stats.vercel.app/api?username=DevLeo-Porfirio&theme=dark&show_icons=true)
 
